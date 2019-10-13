@@ -1,0 +1,14 @@
+body {
+background-image: url("loginbackground.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+h2   {color :aliceblue;}
+P    {    
+color :darkmagenta;
+font-family: 'Franklin Gothic Medium';
+font-size: 20px;
+border: 5px solid brown;
+ padding: 40px;
+ margin: 70px;
+}
